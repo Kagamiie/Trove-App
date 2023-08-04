@@ -36,7 +36,7 @@ To close the application, click the "Close" button.
 ## Known Issues
 The application may not work correctly with screen resolutions other than 1920x1080.
 If you encounter any bugs or issues, please report them in the Issues section of the GitHub repository.
-If you encounter some 'unicode error 'unicodeescape' can't decode bytes' it may be due to the string 'App/Interface/ui/main.ui', just add another slash/backslash like that 'App//Interface//ui//main.ui', 'App\\Interface\\ui\\main.ui' (depend on what can work for you)
+If you encounter some 'unicode error 'unicodeescape' can't decode bytes' it may be due to the string `'App/Interface/ui/main.ui'`, just add another slash/backslash like that `'App//Interface//ui//main.ui'`, `'App\\Interface\\ui\\main.ui'` (depend on what can work for you)
 # License
 This tool is released under the MIT License. See [LICENSE](https://github.com/Kagamiie/Python-Mini-Projects/blob/afe6d60762ad3e834578d1998c144c06be8ce26d/LICENSE) file for details.
 
