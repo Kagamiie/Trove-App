@@ -1,6 +1,8 @@
 # Trove-App
 ### Features
 
+This is just a project I did bc why not, I was searching something to do, so here it is. It has no real use, I was just doing it to learn new things.
+
 - Class Selection: Choose between different character classes by clicking on the respective class buttons. Currently supported classes are Solarion, Ice Sage, Bard, Shadow Hunter, Dracolyte, and Boomeranger (you can select them just by clicking on the classes button).
 - Hide Player: Toggle visibility of your character in the game.
 - No AFK: Prevent the game from marking you as AFK (Away From Keyboard) automatically.
